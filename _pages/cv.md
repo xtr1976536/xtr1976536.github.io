@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
+Personal website: [https://xtr1976536.github.io/](https://xtr1976536.github.io/)
+
 Education
 ======
 
