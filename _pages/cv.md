@@ -1,64 +1,59 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-
-{% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Sun Yat-sen University**, School of Mathematics
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Undergraduate, Strong Foundation Program in Mathematics, 2023--present
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Algebraic geometry and Schubert calculus; matrix analysis; functional equations; complex analysis; mathematical foundations of machine learning and optimization; stochastic modeling and quantitative finance.
+
+Research experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+**Undergraduate Research in Schubert Calculus**
+
+Conducted research on Graham positivity for quantum double Schubert polynomials under academic supervision. Developed and checked proof arguments involving Schubert calculus, positivity, and related combinatorial structures.
+
+**Independent and Collaborative Mathematical Research**
+
+Worked on problems in matrix analysis, functional equations, complex analysis, and geometric methods for structured data. Prepared mathematical manuscripts, computational checks, and reproducible research notes.
+
+Selected manuscripts
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+
+**Graham Positivity of Quantum Double Schubert Polynomials.**
+
+Tongren Xiao and Yihua Yue. Manuscript.
+
+**Schubert-Geometric Representations for Collections of Subspaces.**
+
+Work in progress.
+
+Research skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+
+- Mathematical proof and technical writing
+- Linear algebra, matrix analysis, and abstract algebraic structures
+- Symbolic and numerical verification of mathematical claims
+- Reproducible computational research in Python
+- LaTeX manuscript preparation
+
+Languages
 ======
-* Currently signed in to 43 different slack teams
+
+Chinese (native); English (academic reading and writing)
+
+References
+======
+
+Available upon request.
