@@ -17,6 +17,7 @@ Research interests
 - Financial volatility modeling and forecasting
 - Quantitative finance and financial technology
 - Shape-space methods and shape-based representations for volatility forecasting
+- Post-processing calibration of volatility forecasts
 - Schubert calculus and algebraic geometry
 - Matrix analysis, spectral methods, and tensor computation
 - Attempts on difficult mathematical conjectures
@@ -56,7 +57,7 @@ International academic training
 Research direction
 ------
 
-My primary interest is financial volatility forecasting, including mathematically grounded statistical and machine-learning methods for high-frequency and realized-volatility data. I am especially interested in shape-space representations of volatility paths and in exploring world-model approaches for financial simulation, forecasting, and decision-making. I also work on Schubert calculus, matrix analysis, and rigorous partial progress on difficult mathematical conjectures.
+My primary interest is financial volatility forecasting, including mathematically grounded statistical and machine-learning methods for high-frequency and realized-volatility data. I am especially interested in shape-space representations of volatility paths, post-processing calibration for forecast underestimation risk, and world-model approaches for financial simulation, forecasting, and decision-making. I also work on Schubert calculus, matrix analysis, and rigorous partial progress on difficult mathematical conjectures.
 
 Honors and projects
 ------

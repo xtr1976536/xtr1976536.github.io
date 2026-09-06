@@ -15,7 +15,7 @@ Undergraduate Student in Mathematics, 2023--September 2027 (expected)
 Research interests
 ======
 
-Financial volatility modeling and forecasting; shape-space methods for financial time series; quantitative finance and financial technology; Schubert calculus and algebraic geometry; matrix analysis; attempts on difficult mathematical conjectures.
+Financial volatility modeling and forecasting; shape-space methods for financial time series; post-processing calibration of volatility forecasts; quantitative finance and financial technology; Schubert calculus and algebraic geometry; matrix analysis; attempts on difficult mathematical conjectures.
 
 Research experience
 ======
@@ -39,7 +39,12 @@ Developed rigorous partial results and explicit remaining-gap analyses for two d
 
 **World Models for Financial Applications**
 
-Exploring the use of world-model and structured-simulation ideas in financial forecasting and decision-making. A public paper entry will be added when the corresponding manuscript is finalized.
+**Anchor-Conditioned Probabilistic World Models for Multi-Asset Realized-Volatility Paths.** Work in progress. Exploring latent state-space dynamics, HAR-IV anchoring, multi-step residual likelihood, and joint path realism for financial volatility forecasting.
+
+Coursework and academic teaching
+======
+
+Selected advanced coursework includes two graduate-level courses, one honors course, and one interdisciplinary course: *Selected Readings of Academic Articles*, *Harmonic Analysis on Groups*, *Algebraic Topology*, and *Stochastic Processes*, respectively. In *Selected Readings of Academic Articles*, I led presentations on Chapter 1 and Chapter 3 of Emily Riehl's *Category Theory in Context*.
 
 International academic training
 ======
@@ -62,7 +67,6 @@ Research skills
 
 - Mathematical proof and technical writing
 - Linear algebra, matrix analysis, and abstract algebraic structures
-- Symbolic and numerical verification of mathematical claims
 - Familiar with LaTeX for academic writing and manuscript preparation
 - Familiar with MATLAB for mathematical modeling and numerical computation
 
@@ -71,15 +75,9 @@ Honors and projects
 
 - Honorable Mention, 2026 COMAP Mathematical Contest in Modeling (MCM), Problem B
 - Guangdong Provincial Second Prize, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), Problem A
-- Provincial-level Undergraduate Innovation and Entrepreneurship Training Program project
-- Project No. 20251647: *Asset Volatility Modeling Based on Multi-Option Portfolio Strategies*, provincial-level project
+- Provincial Undergraduate Innovation and Entrepreneurship Training Program, Project No. 20251647: *Asset Volatility Modeling Based on Multi-Option Portfolio Strategies*
 
 Languages
 ======
 
 Chinese (native); English (academic reading and writing)
-
-References
-======
-
-Available upon request.
