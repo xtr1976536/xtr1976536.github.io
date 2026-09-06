@@ -7,18 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Professor Changzheng Li and Associate Professor Yirong Huang. My current work spans algebraic geometry, matrix analysis, functional equations, complex analysis, and quantitative finance.
+I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang and Professor Changzheng Li. My current work focuses on financial volatility forecasting and Schubert calculus, alongside research in matrix analysis, functional equations, and complex analysis.
 
 I am particularly interested in connecting rigorous mathematics with modern problems in machine learning, optimization, and quantitative finance. I am currently seeking research assistant and graduate research opportunities where mathematical structure, provable methods, and interdisciplinary problem solving play a central role.
 
 Research interests
 ------
 
-- Algebraic geometry and Schubert calculus
+- Financial volatility modeling and forecasting
+- Quantitative finance and financial technology
+- Schubert calculus and algebraic geometry
 - Matrix analysis, spectral methods, and tensor computation
 - Functional equations and complex analysis
 - Mathematical foundations of machine learning and optimization
-- Stochastic modeling, quantitative finance, and financial technology
 
 Selected research
 ------
@@ -38,13 +39,13 @@ This ongoing project investigates permutation-invariant representations of subsp
 Research direction
 ------
 
-My broader goal is to develop mathematically principled methods for inference and decision-making. I am especially interested in projects at the intersection of geometry, matrix and tensor methods, optimization, trustworthy machine learning, and financial modeling.
+My primary interest is financial volatility forecasting, including mathematically grounded statistical and machine-learning methods for high-frequency and realized-volatility data. I am also interested in Schubert calculus and in broader connections among geometry, matrix and tensor methods, optimization, and structured machine learning.
 
 Honors and projects
 ------
 
-- Honorable Mention, 2026 COMAP Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
-- Guangdong Provincial Second Prize, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+- Honorable Mention, 2026 COMAP Mathematical Contest in Modeling (MCM), Problem B
+- Guangdong Provincial Second Prize, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), Problem A
 - Provincial-level Undergraduate Innovation and Entrepreneurship Training Program project
 
 Availability

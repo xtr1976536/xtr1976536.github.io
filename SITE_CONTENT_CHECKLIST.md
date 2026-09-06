@@ -36,6 +36,13 @@ For every item that should appear publicly:
 - DOI, arXiv, SSRN, PDF, and code links, when public
 - A two- or three-sentence plain-language summary
 
+## Supporting research materials
+
+- Selected slide decks suitable for public viewing
+- Technical reports that add context beyond a paper
+- One definitive PDF per item; superseded drafts should remain private
+- Confirmation that collaborators and supervisors permit public distribution
+
 ## Research experience
 
 - Supervisor names and affiliations (confirmed: Changzheng Li and Yirong Huang, Sun Yat-sen University)

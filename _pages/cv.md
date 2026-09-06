@@ -15,20 +15,20 @@ Undergraduate Student in Mathematics, 2023--September 2027 (expected)
 Research interests
 ======
 
-Algebraic geometry and Schubert calculus; matrix analysis; functional equations; complex analysis; mathematical foundations of machine learning and optimization; stochastic modeling and quantitative finance.
+Financial volatility modeling and forecasting; quantitative finance and financial technology; Schubert calculus and algebraic geometry; matrix analysis; functional equations; complex analysis; mathematical foundations of machine learning and optimization.
 
 Research experience
 ======
+
+**Research in Quantitative Finance**<br>
+Advisor: Associate Professor Yirong Huang, Sun Yat-sen University
+
+Conducted research in financial volatility modeling and forecasting. Detailed project descriptions and research outputs will be added as the corresponding manuscripts become publicly available.
 
 **Undergraduate Research in Schubert Calculus**<br>
 Advisor: Professor Changzheng Li, Sun Yat-sen University
 
 Conducted research on Graham positivity for quantum double Schubert polynomials under academic supervision. Developed and checked proof arguments involving Schubert calculus, positivity, and related combinatorial structures.
-
-**Research in Quantitative Finance**<br>
-Advisor: Associate Professor Yirong Huang, Sun Yat-sen University
-
-Conducted research in quantitative finance and financial modeling. Detailed project descriptions and research outputs will be added as the corresponding manuscripts become publicly available.
 
 **Independent and Collaborative Mathematical Research**
 
@@ -57,8 +57,8 @@ Research skills
 Honors and projects
 ======
 
-- Honorable Mention, 2026 COMAP Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
-- Guangdong Provincial Second Prize, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+- Honorable Mention, 2026 COMAP Mathematical Contest in Modeling (MCM), Problem B
+- Guangdong Provincial Second Prize, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), Problem A
 - Provincial-level Undergraduate Innovation and Entrepreneurship Training Program project
 
 Languages
