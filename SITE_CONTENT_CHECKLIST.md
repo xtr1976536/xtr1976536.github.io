@@ -4,11 +4,11 @@ The first public-ready draft uses only information verified from the existing re
 
 ## Identity and contact
 
-- Preferred English name and exact Chinese name
-- Professional email address to display publicly
-- Expected graduation month and year
-- Current city, if different from Guangzhou
-- Professional headshot, ideally a square JPG or PNG of at least 800 x 800 pixels
+- Preferred English name and exact Chinese name (confirmed: Tongren Xiao / 肖童仁)
+- Professional email address to display publicly (confirmed)
+- Expected graduation month and year (confirmed: September 2027)
+- Current city (confirmed: Guangzhou, China)
+- Professional headshot (confirmed and prepared for the website)
 
 ## Academic profiles
 
@@ -38,7 +38,7 @@ For every item that should appear publicly:
 
 ## Research experience
 
-- Supervisor names and affiliations
+- Supervisor names and affiliations (confirmed: Changzheng Li and Yirong Huang, Sun Yat-sen University)
 - Project dates
 - Your concrete contribution to each project
 - Methods used and results obtained

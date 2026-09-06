@@ -10,7 +10,7 @@ Education
 
 **Sun Yat-sen University**, School of Mathematics
 
-Undergraduate, Strong Foundation Program in Mathematics, 2023--present
+Undergraduate Student in Mathematics, 2023--September 2027 (expected)
 
 Research interests
 ======
@@ -20,13 +20,19 @@ Algebraic geometry and Schubert calculus; matrix analysis; functional equations;
 Research experience
 ======
 
-**Undergraduate Research in Schubert Calculus**
+**Undergraduate Research in Schubert Calculus**<br>
+Advisor: Professor Changzheng Li, Sun Yat-sen University
 
 Conducted research on Graham positivity for quantum double Schubert polynomials under academic supervision. Developed and checked proof arguments involving Schubert calculus, positivity, and related combinatorial structures.
 
+**Research in Quantitative Finance**<br>
+Advisor: Associate Professor Yirong Huang, Sun Yat-sen University
+
+Conducted research in quantitative finance and financial modeling. Detailed project descriptions and research outputs will be added as the corresponding manuscripts become publicly available.
+
 **Independent and Collaborative Mathematical Research**
 
-Worked on problems in matrix analysis, functional equations, complex analysis, and geometric methods for structured data. Prepared mathematical manuscripts, computational checks, and reproducible research notes.
+Worked on problems in matrix analysis, functional equations, complex analysis, and geometric methods for structured data. Prepared mathematical manuscripts and computational checks.
 
 Selected manuscripts
 ======
@@ -45,8 +51,15 @@ Research skills
 - Mathematical proof and technical writing
 - Linear algebra, matrix analysis, and abstract algebraic structures
 - Symbolic and numerical verification of mathematical claims
-- Reproducible computational research in Python
-- LaTeX manuscript preparation
+- Familiar with LaTeX for academic writing and manuscript preparation
+- Familiar with MATLAB for mathematical modeling and numerical computation
+
+Honors and projects
+======
+
+- Honorable Mention, 2026 COMAP Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
+- Guangdong Provincial Second Prize, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+- Provincial-level Undergraduate Innovation and Entrepreneurship Training Program project
 
 Languages
 ======

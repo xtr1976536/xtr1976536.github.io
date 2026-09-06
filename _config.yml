@@ -23,14 +23,14 @@ repository               : "xtr1976536/xtr1976536.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
-  name             : "Tongren Xiao"
+  avatar           : "profile-tongren-xiao.jpg"
+  name             : "Tongren Xiao (肖童仁)"
   pronouns         : # example: "she/her"  
   bio              : "Mathematics undergraduate interested in rigorous methods for learning, optimization, and finance."
   location         : "Guangzhou, China"
   employer         : "Sun Yat-sen University"
   uri              : # URL
-  email            :
+  email            : "tongrenxiao7@gmail.com"
 
   # Academic websites
   academia         : # URL

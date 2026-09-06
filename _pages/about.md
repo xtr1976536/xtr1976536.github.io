@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student in mathematics in the Strong Foundation Program at the School of Mathematics, Sun Yat-sen University. My current work spans algebraic geometry, matrix analysis, functional equations, and complex analysis.
+I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Professor Changzheng Li and Associate Professor Yirong Huang. My current work spans algebraic geometry, matrix analysis, functional equations, complex analysis, and quantitative finance.
 
 I am particularly interested in connecting rigorous mathematics with modern problems in machine learning, optimization, and quantitative finance. I am currently seeking research assistant and graduate research opportunities where mathematical structure, provable methods, and interdisciplinary problem solving play a central role.
 
@@ -40,7 +40,14 @@ Research direction
 
 My broader goal is to develop mathematically principled methods for inference and decision-making. I am especially interested in projects at the intersection of geometry, matrix and tensor methods, optimization, trustworthy machine learning, and financial modeling.
 
+Honors and projects
+------
+
+- Honorable Mention, 2026 COMAP Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
+- Guangdong Provincial Second Prize, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+- Provincial-level Undergraduate Innovation and Entrepreneurship Training Program project
+
 Availability
 ------
 
-I welcome conversations about research assistant positions, visiting research opportunities, and research postgraduate study beginning in 2027.
+I expect to graduate in September 2027 and welcome conversations about research assistant positions, visiting research opportunities, and research postgraduate study.
