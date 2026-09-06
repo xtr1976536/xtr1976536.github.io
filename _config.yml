@@ -84,10 +84,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  manuscripts:
-    title: 'Manuscripts and Preprints'
+  finance:
+    title: 'Financial Volatility Research'
+  algebraic_geometry:
+    title: 'Algebraic Geometry and Schubert Calculus'
   research_notes:
-    title: 'Research Notes'
+    title: 'Research Notes and Conjectures'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

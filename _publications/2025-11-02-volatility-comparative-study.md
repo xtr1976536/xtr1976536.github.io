@@ -1,7 +1,7 @@
 ---
 title: "A Comparative Study of Hybrid LSTM Frameworks for Volatility Forecasting in the NASDAQ-100 and S&P 500 Markets"
 collection: publications
-category: manuscripts
+category: finance
 permalink: /publication/2025-volatility-comparative-study/
 excerpt: "A comparative study of hybrid LSTM-GARCH frameworks for realized-volatility forecasting."
 date: 2025-11-02

@@ -1,7 +1,7 @@
 ---
 title: "Graham Positivity of Quantum Double Schubert Polynomials"
 collection: publications
-category: manuscripts
+category: algebraic_geometry
 permalink: /publication/2026-graham-positivity/
 excerpt: "A proof-oriented study of Graham positivity for quantum double Schubert polynomials."
 date: 2026-08-01

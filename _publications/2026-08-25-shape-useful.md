@@ -1,7 +1,7 @@
 ---
 title: "Shape Is Useful: Geometric Analog Forecasting of Realized Volatility"
 collection: publications
-category: manuscripts
+category: finance
 permalink: /publication/2026-shape-useful/
 excerpt: "A geometric analog forecasting framework for realized volatility based on similarity between historical volatility paths."
 date: 2026-08-25
