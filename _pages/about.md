@@ -45,11 +45,9 @@ Selected research materials
 ------
 
 - [Volatility forecasting comparison study](/publication/2025-volatility-comparative-study/)
-- [Geometric analog forecasting of realized volatility](/publication/2026-shape-useful/)
 - [Riemann surfaces and Hodge theory notes](/files/reports/talks/Riemann_Surfaces_Hodge_Theory_Notes.pdf)
 - [Category theory notes](/files/reports/talks/Category_Theory_Notes.pdf)
 - [FreezeOut and TDA report](/files/reports/talks/FreezeOut_TDA_Report.pdf)
-- [2025 CUMCM Problem A paper](/files/reports/competitions/CUMCM_2025_Problem_A_Smoke_Screening_Deployment.pdf)
 - [Matrix analysis conjecture research note](/publication/2026-three-frame-conjecture/)
 - [Erdos--Straus large-sieve and fixed-shift research note](/publication/2026-erdos-straus/)
 
@@ -61,6 +59,6 @@ International academic training
 Honors and projects
 ------
 
-- Honorable Mention, 2026 COMAP Mathematical Contest in Modeling (MCM), Problem B
-- Guangdong Provincial Second Prize, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), Problem A
+- Honorable Mention, 2026 COMAP Mathematical Contest in Modeling (MCM), Problem B ([paper](/files/reports/competitions/MCM_2026_Problem_B.pdf))
+- Guangdong Provincial Second Prize, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), Problem A ([paper](/files/reports/competitions/CUMCM_2025_Problem_A_Smoke_Screening_Deployment.pdf))
 - Provincial Undergraduate Innovation and Entrepreneurship Training Program, Project No. 20251647: *Asset Volatility Modeling Based on Multi-Option Portfolio Strategies*

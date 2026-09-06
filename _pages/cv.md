@@ -74,8 +74,8 @@ Research skills
 Honors and projects
 ======
 
-- Honorable Mention, 2026 COMAP Mathematical Contest in Modeling (MCM), Problem B
-- Guangdong Provincial Second Prize, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), Problem A
+- Honorable Mention, 2026 COMAP Mathematical Contest in Modeling (MCM), Problem B ([paper](https://xtr1976536.github.io/files/reports/competitions/MCM_2026_Problem_B.pdf))
+- Guangdong Provincial Second Prize, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), Problem A ([paper](https://xtr1976536.github.io/files/reports/competitions/CUMCM_2025_Problem_A_Smoke_Screening_Deployment.pdf))
 - Provincial Undergraduate Innovation and Entrepreneurship Training Program, Project No. 20251647: *Asset Volatility Modeling Based on Multi-Option Portfolio Strategies*
 
 Languages
