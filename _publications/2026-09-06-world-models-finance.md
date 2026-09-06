@@ -4,7 +4,7 @@ collection: publications
 category: finance
 permalink: /publication/2026-world-models-finance/
 excerpt: "A probabilistic world-model formulation for multi-asset realized-volatility forecasting."
-date: 2026-09-06
+date: 2026-01-15
 venue: "Work in progress"
 citation: "Tongren Xiao. &quot;Anchor-Conditioned Probabilistic World Models for Multi-Asset Realized-Volatility Paths.&quot; Work in progress, 2026."
 ---

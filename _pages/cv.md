@@ -15,7 +15,7 @@ Undergraduate Student in Mathematics, 2023--September 2027 (expected)
 Research interests
 ======
 
-Financial volatility modeling and forecasting; shape-space methods for financial time series; post-processing calibration of volatility forecasts; quantitative finance and financial technology; Schubert calculus and algebraic geometry; matrix analysis; attempts on difficult mathematical conjectures.
+Financial volatility modeling and forecasting; shape-space methods for financial time series; forecast calibration and underestimation-risk control; Schubert calculus and algebraic geometry; selected difficult mathematical conjectures.
 
 Research experience
 ======
@@ -23,7 +23,7 @@ Research experience
 **Research in Quantitative Finance**<br>
 Advisor: Associate Professor Yirong Huang, Sun Yat-sen University
 
-Conducted research in financial volatility modeling and forecasting, including hybrid LSTM-GARCH comparison and geometric analog forecasting of realized volatility.
+Conducted research in financial volatility modeling and forecasting, including hybrid LSTM-GARCH comparison, geometric analog forecasting of realized volatility, and post-processing calibration for underestimation risk.
 
 **Undergraduate Research in Schubert Calculus**<br>
 Advisor: Professor Changzheng Li, Sun Yat-sen University
@@ -55,9 +55,13 @@ Selected manuscripts
 
 Tongren Xiao and Yihua Yue. Manuscript.
 
-**Schubert-Geometric Representations for Collections of Subspaces.**
+**Shape Is Useful: Geometric Analog Forecasting of Realized Volatility.**
 
-Work in progress.
+Manuscript.
+
+**Forecast calibration and underestimation-risk control.**
+
+Research presentation and work in progress.
 
 Research skills
 ======
