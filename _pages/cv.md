@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
+Download: [English CV (PDF)](/cv/Tongren_Xiao_CV.pdf) | [中文 CV (PDF)](/cv/Tongren_Xiao_CV_zh.pdf)
+
 Education
 ======
 
