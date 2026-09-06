@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang and Professor Changzheng Li. My current work focuses on financial volatility forecasting and Schubert calculus, alongside research in matrix analysis.
+I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang and Professor Changzheng Li. My current work focuses on financial volatility forecasting, shape-based methods for financial time series, and Schubert calculus, alongside research on selected difficult mathematical conjectures.
 
 I am particularly interested in connecting rigorous mathematics with modern problems in machine learning, optimization, and quantitative finance. I am especially interested in shape-space methods and shape-based representations for financial volatility forecasting, as well as the use of world models and structured simulation in financial applications. I am currently seeking research assistant and graduate research opportunities.
 
@@ -16,8 +16,8 @@ Research interests
 
 - Financial volatility modeling and forecasting
 - Quantitative finance and financial technology
-- Shape-space methods and shape-based representations for volatility forecasting
-- Post-processing calibration of volatility forecasts
+- Shape-space methods, especially shape-based representations for volatility forecasting
+- Forecast calibration and underestimation-risk control
 - Schubert calculus and algebraic geometry
 - Matrix analysis, spectral methods, and tensor computation
 - Attempts on difficult mathematical conjectures
@@ -57,7 +57,7 @@ International academic training
 Research direction
 ------
 
-My primary interest is financial volatility forecasting, including mathematically grounded statistical and machine-learning methods for high-frequency and realized-volatility data. I am especially interested in shape-space representations of volatility paths, post-processing calibration for forecast underestimation risk, and world-model approaches for financial simulation, forecasting, and decision-making. I also work on Schubert calculus, matrix analysis, and rigorous partial progress on difficult mathematical conjectures.
+My primary interest is financial volatility forecasting, including mathematically grounded statistical and machine-learning methods for high-frequency and realized-volatility data. Within this area, I study shape-based representations, forecast calibration for underestimation risk, and probabilistic world-model approaches to financial simulation and decision-making. I also work on Schubert calculus and rigorous partial progress on selected difficult mathematical conjectures.
 
 Honors and projects
 ------

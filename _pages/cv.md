@@ -25,9 +25,6 @@ Advisor: Associate Professor Yirong Huang, Sun Yat-sen University
 
 Conducted research in financial volatility modeling and forecasting, including hybrid LSTM-GARCH comparison and geometric analog forecasting of realized volatility.
 
-**Undergraduate Innovation and Entrepreneurship Training Program**<br>
-Project No. 20251647: *Asset Volatility Modeling Based on Multi-Option Portfolio Strategies*. Provincial-level project.
-
 **Undergraduate Research in Schubert Calculus**<br>
 Advisor: Professor Changzheng Li, Sun Yat-sen University
 
