@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang and Professor Changzheng Li. My current work focuses on financial volatility forecasting and Schubert calculus, alongside research in matrix analysis, functional equations, and complex analysis.
+I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang and Professor Changzheng Li. My current work focuses on financial volatility forecasting and Schubert calculus, alongside research in matrix analysis.
 
-I am particularly interested in connecting rigorous mathematics with modern problems in machine learning, optimization, and quantitative finance. I am currently seeking research assistant and graduate research opportunities where mathematical structure, provable methods, and interdisciplinary problem solving play a central role.
+I am particularly interested in connecting rigorous mathematics with modern problems in machine learning, optimization, and quantitative finance. I am especially interested in shape-space methods and shape-based representations for financial volatility forecasting, as well as the use of world models and structured simulation in financial applications. I am currently seeking research assistant and graduate research opportunities.
 
 Research interests
 ------
 
 - Financial volatility modeling and forecasting
 - Quantitative finance and financial technology
+- Shape-space methods and shape-based representations for volatility forecasting
 - Schubert calculus and algebraic geometry
 - Matrix analysis, spectral methods, and tensor computation
 - Attempts on difficult mathematical conjectures
@@ -45,7 +46,7 @@ Selected research materials
 - [FreezeOut and TDA report](/files/reports/talks/FreezeOut_TDA_Report.pdf)
 - [2025 CUMCM Problem A paper](/files/reports/competitions/CUMCM_2025_Problem_A_Smoke_Screening_Deployment.pdf)
 - [Matrix analysis conjecture research note](/publication/2026-three-frame-conjecture/)
-- [Erdos--Straus conjecture research note](/publication/2026-erdos-straus/)
+- [Erdos--Straus large-sieve and fixed-shift research note](/publication/2026-erdos-straus/)
 
 International academic training
 ------
@@ -55,7 +56,7 @@ International academic training
 Research direction
 ------
 
-My primary interest is financial volatility forecasting, including mathematically grounded statistical and machine-learning methods for high-frequency and realized-volatility data. I am also interested in Schubert calculus, matrix analysis, and attempts to make rigorous progress on difficult mathematical conjectures.
+My primary interest is financial volatility forecasting, including mathematically grounded statistical and machine-learning methods for high-frequency and realized-volatility data. I am especially interested in shape-space representations of volatility paths and in exploring world-model approaches for financial simulation, forecasting, and decision-making. I also work on Schubert calculus, matrix analysis, and rigorous partial progress on difficult mathematical conjectures.
 
 Honors and projects
 ------

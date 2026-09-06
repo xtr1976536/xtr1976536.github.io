@@ -15,7 +15,7 @@ Undergraduate Student in Mathematics, 2023--September 2027 (expected)
 Research interests
 ======
 
-Financial volatility modeling and forecasting; quantitative finance and financial technology; Schubert calculus and algebraic geometry; matrix analysis; attempts on difficult mathematical conjectures; functional equations; complex analysis.
+Financial volatility modeling and forecasting; shape-space methods for financial time series; quantitative finance and financial technology; Schubert calculus and algebraic geometry; matrix analysis; attempts on difficult mathematical conjectures.
 
 Research experience
 ======
@@ -33,13 +33,13 @@ Advisor: Professor Changzheng Li, Sun Yat-sen University
 
 Conducted research on Graham positivity for quantum double Schubert polynomials under academic supervision. Developed and checked proof arguments involving Schubert calculus, positivity, and related combinatorial structures.
 
-**Independent and Collaborative Mathematical Research**
-
-Worked on problems in matrix analysis, functional equations, complex analysis, and geometric methods for structured data. Prepared mathematical manuscripts and computational checks.
-
 **Research on Difficult Mathematical Conjectures**
 
-Developed rigorous partial results and explicit remaining-gap analyses for conjectures in matrix analysis and number theory, including the three-frame submatrix problem and the Erdos--Straus equation.
+Developed rigorous partial results and explicit remaining-gap analyses for two difficult conjectures: the three-frame submatrix problem in matrix analysis and the Erdős--Straus conjecture through fixed-shift obstructions, large-sieve estimates, and an optimization of Dahan's sieve constants.
+
+**World Models for Financial Applications**
+
+Exploring the use of world-model and structured-simulation ideas in financial forecasting and decision-making. A public paper entry will be added when the corresponding manuscript is finalized.
 
 International academic training
 ======
