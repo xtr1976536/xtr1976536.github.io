@@ -14,6 +14,8 @@ Education
 
 Undergraduate Student in Mathematics, 2023--September 2027 (expected)
 
+GPA: 3.00/5.00; average mark: 80/100
+
 Research interests
 ======
 
