@@ -43,6 +43,8 @@ For every item that should appear publicly:
 - One definitive PDF per item; superseded drafts should remain private
 - Confirmation that collaborators and supervisors permit public distribution
 
+The option-pricing transcript is used for CV information only and should remain private unless an application specifically requires the document.
+
 ## Research experience
 
 - Supervisor names and affiliations (confirmed: Changzheng Li and Yirong Huang, Sun Yat-sen University)

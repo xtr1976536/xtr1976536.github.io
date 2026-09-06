@@ -25,6 +25,9 @@ Advisor: Associate Professor Yirong Huang, Sun Yat-sen University
 
 Conducted research in financial volatility modeling and forecasting, including hybrid LSTM-GARCH comparison and geometric analog forecasting of realized volatility.
 
+**Undergraduate Innovation and Entrepreneurship Training Program**<br>
+Project No. 20251647: *Asset Volatility Modeling Based on Multi-Option Portfolio Strategies*. Provincial-level project.
+
 **Undergraduate Research in Schubert Calculus**<br>
 Advisor: Professor Changzheng Li, Sun Yat-sen University
 
@@ -37,6 +40,11 @@ Worked on problems in matrix analysis, functional equations, complex analysis, a
 **Research on Difficult Mathematical Conjectures**
 
 Developed rigorous partial results and explicit remaining-gap analyses for conjectures in matrix analysis and number theory, including the three-frame submatrix problem and the Erdos--Straus equation.
+
+International academic training
+======
+
+**Introduction to Option Pricing**, taught by Johannes Ruf, 7 March--25 May 2025. International research-based learning course; grade: 81.50.
 
 Selected manuscripts
 ======
@@ -64,6 +72,7 @@ Honors and projects
 - Honorable Mention, 2026 COMAP Mathematical Contest in Modeling (MCM), Problem B
 - Guangdong Provincial Second Prize, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), Problem A
 - Provincial-level Undergraduate Innovation and Entrepreneurship Training Program project
+- Project No. 20251647: *Asset Volatility Modeling Based on Multi-Option Portfolio Strategies*, provincial-level project
 
 Languages
 ======

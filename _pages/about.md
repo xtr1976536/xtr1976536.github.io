@@ -43,8 +43,14 @@ Selected research materials
 - [Riemann surfaces and Hodge theory notes](/files/reports/talks/Riemann_Surfaces_Hodge_Theory_Notes.pdf)
 - [Category theory notes](/files/reports/talks/Category_Theory_Notes.pdf)
 - [FreezeOut and TDA report](/files/reports/talks/FreezeOut_TDA_Report.pdf)
+- [2025 CUMCM Problem A paper](/files/reports/competitions/CUMCM_2025_Problem_A_Smoke_Screening_Deployment.pdf)
 - [Matrix analysis conjecture research note](/publication/2026-three-frame-conjecture/)
 - [Erdos--Straus conjecture research note](/publication/2026-erdos-straus/)
+
+International academic training
+------
+
+**Introduction to Option Pricing**, taught by Johannes Ruf, 7 March--25 May 2025. International research-based learning course; grade: 81.50.
 
 Research direction
 ------
