@@ -18,8 +18,7 @@ Research interests
 - Quantitative finance and financial technology
 - Schubert calculus and algebraic geometry
 - Matrix analysis, spectral methods, and tensor computation
-- Functional equations and complex analysis
-- Mathematical foundations of machine learning and optimization
+- Attempts on difficult mathematical conjectures
 
 Selected research
 ------
@@ -36,10 +35,21 @@ This ongoing project investigates permutation-invariant representations of subsp
 
 [View research entry](/publication/2026-schubert-representations/)
 
+Selected research materials
+------
+
+- [Volatility forecasting comparison study](/publication/2025-volatility-comparative-study/)
+- [Geometric analog forecasting of realized volatility](/publication/2026-shape-useful/)
+- [Riemann surfaces and Hodge theory notes](/files/reports/talks/Riemann_Surfaces_Hodge_Theory_Notes.pdf)
+- [Category theory notes](/files/reports/talks/Category_Theory_Notes.pdf)
+- [FreezeOut and TDA report](/files/reports/talks/FreezeOut_TDA_Report.pdf)
+- [Matrix analysis conjecture research note](/publication/2026-three-frame-conjecture/)
+- [Erdos--Straus conjecture research note](/publication/2026-erdos-straus/)
+
 Research direction
 ------
 
-My primary interest is financial volatility forecasting, including mathematically grounded statistical and machine-learning methods for high-frequency and realized-volatility data. I am also interested in Schubert calculus and in broader connections among geometry, matrix and tensor methods, optimization, and structured machine learning.
+My primary interest is financial volatility forecasting, including mathematically grounded statistical and machine-learning methods for high-frequency and realized-volatility data. I am also interested in Schubert calculus, matrix analysis, and attempts to make rigorous progress on difficult mathematical conjectures.
 
 Honors and projects
 ------

@@ -6,6 +6,7 @@ permalink: /publication/2026-graham-positivity/
 excerpt: "A proof-oriented study of Graham positivity for quantum double Schubert polynomials."
 date: 2026-08-01
 venue: "Manuscript"
+paperurl: "/files/papers/algebraic-geometry/Graham_Positivity_Quantum_Double_Schubert_Polynomials.pdf"
 citation: "Tongren Xiao and Yihua Yue. &quot;Graham Positivity of Quantum Double Schubert Polynomials.&quot; Manuscript, 2026."
 ---
 

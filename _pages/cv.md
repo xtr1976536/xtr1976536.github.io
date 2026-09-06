@@ -15,7 +15,7 @@ Undergraduate Student in Mathematics, 2023--September 2027 (expected)
 Research interests
 ======
 
-Financial volatility modeling and forecasting; quantitative finance and financial technology; Schubert calculus and algebraic geometry; matrix analysis; functional equations; complex analysis; mathematical foundations of machine learning and optimization.
+Financial volatility modeling and forecasting; quantitative finance and financial technology; Schubert calculus and algebraic geometry; matrix analysis; attempts on difficult mathematical conjectures; functional equations; complex analysis.
 
 Research experience
 ======
@@ -23,7 +23,7 @@ Research experience
 **Research in Quantitative Finance**<br>
 Advisor: Associate Professor Yirong Huang, Sun Yat-sen University
 
-Conducted research in financial volatility modeling and forecasting. Detailed project descriptions and research outputs will be added as the corresponding manuscripts become publicly available.
+Conducted research in financial volatility modeling and forecasting, including hybrid LSTM-GARCH comparison and geometric analog forecasting of realized volatility.
 
 **Undergraduate Research in Schubert Calculus**<br>
 Advisor: Professor Changzheng Li, Sun Yat-sen University
@@ -33,6 +33,10 @@ Conducted research on Graham positivity for quantum double Schubert polynomials 
 **Independent and Collaborative Mathematical Research**
 
 Worked on problems in matrix analysis, functional equations, complex analysis, and geometric methods for structured data. Prepared mathematical manuscripts and computational checks.
+
+**Research on Difficult Mathematical Conjectures**
+
+Developed rigorous partial results and explicit remaining-gap analyses for conjectures in matrix analysis and number theory, including the three-frame submatrix problem and the Erdos--Straus equation.
 
 Selected manuscripts
 ======
