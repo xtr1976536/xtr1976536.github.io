@@ -64,7 +64,7 @@ Honors and projects
 
 - Honorable Mention, 2026 COMAP Mathematical Contest in Modeling (MCM), Problem B
 - Guangdong Provincial Second Prize, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), Problem A
-- Provincial-level Undergraduate Innovation and Entrepreneurship Training Program project
+- Provincial Undergraduate Innovation and Entrepreneurship Training Program, Project No. 20251647: *Asset Volatility Modeling Based on Multi-Option Portfolio Strategies*
 
 Availability
 ------
