@@ -7,21 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang and Professor Changzheng Li. My current work focuses on financial volatility forecasting, shape-based methods for financial time series, and Schubert calculus, alongside research on selected difficult mathematical conjectures.
+I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang and Professor Changzheng Li. My current work focuses on structured and uncertainty-aware modeling: financial volatility forecasting, probabilistic world models, and auditable forecasting-agent interfaces.
 
-I am interested in mathematically grounded approaches to financial volatility forecasting and in the use of structured representations for financial time series. I am also interested in Schubert calculus and in rigorous work on selected difficult mathematical conjectures.
+I am interested in reliable language agents and structured decision support, especially systems that invoke quantitative tools, respect causal information boundaries, reason over uncertainty, and produce auditable outputs. My current projects use geometric representations and probabilistic dynamics for financial applications; my mathematical work in Schubert calculus remains an important parallel research line.
 
 Research interests
 ------
 
-- Financial volatility modeling and forecasting
-- Shape-space methods, especially shape-based representations for volatility forecasting
-- Forecast calibration and underestimation-risk control
+- Reliable language agents and tool use
+- Structured decision support and auditable AI systems
+- Uncertainty-aware forecasting and probabilistic world models
+- Financial and scientific AI applications
 - Schubert calculus and algebraic geometry
-- Selected difficult mathematical conjectures
 
 Selected research
 ------
+
+### Current projects
+
+#### Auditable forecasting agent
+
+An auditable interface around the Shape Retrieval Model that parses structured forecasting requests, validates the information boundary, retrieves geometric analog paths, and records reproducible audit artifacts. The optional cloud LLM prototype only selects validated tools; the paper forecasting engine remains unchanged.
+
+[Source code](https://github.com/xtr1976536/srm-forecasting-agent)
+
+#### Probabilistic world model for volatility
+
+An anchor-conditioned recurrent state-space model for probabilistic multi-asset realized-volatility paths, with shared market dynamics, asset-specific latent representations, and forward-only evaluation.
+
+[Source code](https://github.com/xtr1976536/volatility-world-model)
 
 ### Shape-based forecasting of realized volatility
 
@@ -34,6 +48,8 @@ This project studies geometric similarity between historical volatility paths an
 This project studies a post-processing layer for volatility forecasts, with the aim of reducing the frequency and magnitude of underestimation without redesigning the underlying forecasting model.
 
 [View slides](/files/reports/talks/Conservative_Residual_Overlay_Slides.pdf)
+
+### Mathematical research notes
 
 ### Graham positivity of quantum double Schubert polynomials
 
