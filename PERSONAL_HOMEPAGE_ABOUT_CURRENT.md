@@ -7,50 +7,53 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang, Associate Professor Yujun Lian, and Professor Changzheng Li. My current work focuses on structured and uncertainty-aware modeling: financial volatility forecasting, probabilistic world models, and auditable forecasting-agent interfaces.
+I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang, Associate Professor Yujun Lian, and Professor Changzheng Li. My current research focuses on three areas: time series forecasting, world models, and Schubert calculus.
 
-I am especially interested in simple and effective forecasting from limited information, world models for financial time series, and reliable agents that support later decision-making. I also maintain a parallel interest in Schubert calculus and its possible connections to machine learning. In the current AGI era, I view implementation tools such as Codex and GPT as collaborators that can reduce routine coding work and leave more room for problem formulation, mathematical thinking, and new ideas; the research questions, modeling choices, and evaluation standards remain my responsibility.
+I am particularly interested in the following questions:
 
-Research interests
-------
+- How to design simple yet effective forecasting models in data‑scarce financial environments (such as the SRM model we recently completed);
+- How to build probabilistic world models for financial markets—we are trying to introduce world models into finance, but due to severe partial observability and non‑stationarity in financial systems, the results are not yet satisfactory and we are still exploring;
+- How to develop agent systems that are robust, explainable, and trustworthy, and that provide structured and auditable support for financial decision‑making—my advisors and I are very interested in this direction, but progress has been limited so far.
 
-- Time-series and volatility forecasting with limited information
+Ultimately, these directions converge on the same core question: how to obtain good forecasts, and how to make good decisions based on those forecasts.
+
+In addition, I maintain an interest in algebraic geometry, particularly Schubert calculus, and I follow geometric learning on Grassmannian manifolds. So far, applications of Schubert calculus in machine learning are extremely rare; only a few studies have attempted to use Schubert varieties as trainable prototypes for subspace clustering. I hope to explore broader uses of Schubert calculus in machine learning algorithms in the future.
+
+**Research interests**
+
+- Time-series and volatility forecasting in data‑scarce settings
 - Probabilistic world models for financial time series
 - Reliable agents and structured decision support
-- Schubert calculus and possible machine-learning applications
+- Schubert calculus and its potential applications in machine learning
 
 Selected research
 ------
 
 ### Current projects
 
-#### Auditable forecasting agent
-
-I designed the SRM forecasting agent as an auditable interface around the Shape Retrieval Model. It parses structured forecasting requests, validates the information boundary, retrieves geometric analog paths, and records reproducible audit artifacts. The implementation was developed with coding assistance from Codex/GPT; the research design and system specification are mine. A manuscript is being prepared for arXiv submission.
-
-[Source code](https://github.com/xtr1976536/srm-forecasting-agent)
-
-#### Forecast post-processing and calibration
-
-Project materials will be added after the latest results are uploaded.
-
-#### Probabilistic world model for volatility
-
-I designed the initial framework for an anchor-conditioned recurrent state-space model for probabilistic multi-asset realized-volatility paths. The implementation was developed with coding assistance from Codex/GPT. This is an early public research prototype: the model and evaluation protocol are still being improved. The financial data are commercially licensed and may be subject to access and usage restrictions; the repository does not obtain or redistribute them.
-
-[Source code](https://github.com/xtr1976536/volatility-world-model)
-
-### Shape-based forecasting of realized volatility
+#### Shape-based forecasting of realized volatility
 
 This project studies geometric similarity between historical volatility paths and its use in nonparametric realized-volatility forecasting.
 
 [View publication entry](/publication/2026-shape-useful/)
 
-### Forecast calibration and underestimation-risk control
+#### A reliable agent
+
+This is an extension of the previous shape‑based forecasting work—it wraps the SRM model with an auditable interface that parses structured forecasting requests, checks the information boundary, retrieves geometric analog paths, and saves complete audit records. The research design and system specification are mine.
+
+[Source code](https://github.com/xtr1976536/srm-forecasting-agent)
+
+#### Forecast calibration and underestimation-risk control
 
 This project studies a post-processing layer for volatility forecasts, with the aim of reducing the frequency and magnitude of underestimation without redesigning the underlying forecasting model.
 
 [View slides](/files/reports/talks/Conservative_Residual_Overlay_Slides.pdf)
+
+#### Probabilistic world model for volatility
+
+This is a very rough model and is still being improved.
+
+[Source code](https://github.com/xtr1976536/volatility-world-model)
 
 ### Mathematical research notes
 
@@ -73,7 +76,7 @@ Selected research materials
 International academic training
 ------
 
-**Introduction to Option Pricing**, taught by Johannes Ruf, 7 March--25 May 2025. International research-based learning course; grade: 81.50.
+**Introduction to Option Pricing**, taught by Johannes Ruf, 7 March--25 May 2025. International research-based learning course; grade: 81.50/100.
 
 Honors and projects
 ------
