@@ -9,7 +9,7 @@ redirect_from:
 
 I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang, Associate Professor Yujun Lian, and Professor Changzheng Li. My current work focuses on structured and uncertainty-aware modeling: financial volatility forecasting, probabilistic world models, and auditable forecasting-agent interfaces.
 
-I am especially interested in simple and effective forecasting from limited information, world models for financial time series, and reliable agents that support later decision-making. I also maintain a parallel interest in Schubert calculus and its possible connections to machine learning. In the current AGI era, I view implementation tools such as Codex and GPT as collaborators that can reduce routine coding work and leave more room for problem formulation, mathematical thinking, and new ideas; the research questions, modeling choices, and evaluation standards remain my responsibility.
+I am especially interested in simple and effective forecasting from limited information, world models for financial time series, and reliable agents that support later decision-making. I also maintain a parallel interest in Schubert calculus and its possible connections to machine learning.
 
 Research interests
 ------
