@@ -7,18 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang and Professor Changzheng Li. My current work focuses on structured and uncertainty-aware modeling: financial volatility forecasting, probabilistic world models, and auditable forecasting-agent interfaces.
+I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang, Associate Professor Yujun Lian, and Professor Changzheng Li. My current work focuses on structured and uncertainty-aware modeling: financial volatility forecasting, probabilistic world models, and auditable forecasting-agent interfaces.
 
-I am interested in reliable language agents and structured decision support, especially systems that invoke quantitative tools, respect causal information boundaries, reason over uncertainty, and produce auditable outputs. My current projects use geometric representations and probabilistic dynamics for financial applications; my mathematical work in Schubert calculus remains an important parallel research line.
+I am especially interested in simple and effective forecasting from limited information, world models for financial time series, and reliable agents that support later decision-making. I also maintain a parallel interest in Schubert calculus and its possible connections to machine learning. In the current AGI era, I view implementation tools such as Codex and GPT as collaborators that can reduce routine coding work and leave more room for problem formulation, mathematical thinking, and new ideas; the research questions, modeling choices, and evaluation standards remain my responsibility.
 
 Research interests
 ------
 
-- Reliable language agents and tool use
-- Structured decision support and auditable AI systems
-- Uncertainty-aware forecasting and probabilistic world models
-- Financial and scientific AI applications
-- Schubert calculus and algebraic geometry
+- Time-series and volatility forecasting with limited information
+- Probabilistic world models for financial time series
+- Reliable agents and structured decision support
+- Schubert calculus and possible machine-learning applications
 
 Selected research
 ------
@@ -27,13 +26,13 @@ Selected research
 
 #### Auditable forecasting agent
 
-An auditable interface around the Shape Retrieval Model that parses structured forecasting requests, validates the information boundary, retrieves geometric analog paths, and records reproducible audit artifacts. The optional cloud LLM prototype only selects validated tools; the paper forecasting engine remains unchanged.
+I designed the SRM forecasting agent as an auditable interface around the Shape Retrieval Model. It parses structured forecasting requests, validates the information boundary, retrieves geometric analog paths, and records reproducible audit artifacts. The implementation was developed with coding assistance from Codex/GPT; the research design and system specification are mine. A manuscript is being prepared for arXiv submission.
 
 [Source code](https://github.com/xtr1976536/srm-forecasting-agent)
 
 #### Probabilistic world model for volatility
 
-An anchor-conditioned recurrent state-space model for probabilistic multi-asset realized-volatility paths, with shared market dynamics, asset-specific latent representations, and forward-only evaluation.
+I designed the initial framework for an anchor-conditioned recurrent state-space model for probabilistic multi-asset realized-volatility paths. The implementation was developed with coding assistance from Codex/GPT. This is an early public research prototype: the model and evaluation protocol are still being improved, and the purchased financial data are not redistributed.
 
 [Source code](https://github.com/xtr1976536/volatility-world-model)
 
