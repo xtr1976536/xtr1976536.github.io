@@ -76,7 +76,7 @@ Selected research materials
 International academic training
 ------
 
-**Introduction to Option Pricing**, taught by Johannes Ruf, 7 March--25 May 2025. International research-based learning course; grade: 81.50/100.
+**Introduction to Option Pricing**, taught by Johannes Ruf, 7 March--25 May 2025. International research-based learning course.
 
 Honors and projects
 ------
