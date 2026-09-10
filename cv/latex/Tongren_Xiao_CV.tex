@@ -1,81 +1,78 @@
 % !TEX TS-program = xelatex
-\documentclass[9pt,a4paper]{article}
+\documentclass[10pt,a4paper]{article}
 \usepackage[a4paper,margin=1.3cm]{geometry}
 \usepackage{fontspec}
 \usepackage{titlesec}
 \usepackage{enumitem}
 \usepackage{hyperref}
 \usepackage{xcolor}
-\usepackage{tabularx}
-\usepackage{array}
 \usepackage{microtype}
+
 \definecolor{accent}{HTML}{1F4E79}
 \hypersetup{colorlinks=true,urlcolor=accent,linkcolor=accent}
 \setmainfont{Times New Roman}
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{0.5pt}
-\setlist[itemize]{leftmargin=1.25em,itemsep=0pt,topsep=1pt,parsep=0pt}
+\setlength{\parskip}{0pt}
+\setlength{\emergencystretch}{2em}
+\setlist[itemize]{leftmargin=1.15em,itemsep=0.7pt,topsep=1pt,parsep=0pt,partopsep=0pt}
 \titleformat{\section}{\normalsize\bfseries\color{accent}}{}{0pt}{}[\vspace{-4pt}\color{accent}\rule{\linewidth}{0.45pt}]
 \titlespacing*{\section}{0pt}{4pt}{2pt}
-\newcommand{\entry}[2]{\textbf{#1}\hfill #2\\}
-\newcommand{\subentry}[1]{\textit{#1}\\}
+\newcommand{\entry}[2]{\textbf{#1}\hfill #2\\[-0.5pt]}
+
 \begin{document}
+\fontsize{9.8}{11.2}\selectfont
 
 \begin{center}
 {\Large\bfseries Tongren Xiao}\\[1pt]
 School of Mathematics, Sun Yat-sen University \quad $\cdot$ \quad Guangzhou, China\\
 \href{mailto:tongrenxiao7@gmail.com}{tongrenxiao7@gmail.com} \quad $\cdot$ \quad
-Website: \href{https://xtr1976536.github.io/}{https://xtr1976536.github.io/} \quad $\cdot$ \quad
+\href{https://xtr1976536.github.io/}{xtr1976536.github.io} \quad $\cdot$ \quad
 \href{https://github.com/xtr1976536}{github.com/xtr1976536}
 \end{center}
 
 \section*{Research Interests}
-Financial volatility modeling and forecasting; shape-space methods and shape-based representations for financial time series; forecast calibration and underestimation-risk control; Schubert calculus and algebraic geometry; selected difficult mathematical conjectures.
+Reliable language agents; structured decision support; world models; financial AI; time-series forecasting.
 
 \section*{Education}
-\entry{Sun Yat-sen University, School of Mathematics}{2023--September 2027 (expected)}
-Undergraduate Student in Mathematics\\
-GPA: 3.00/5.00; average mark: 80/100
+\entry{Sun Yat-sen University, School of Mathematics}{2023-September 2027 (expected)}
+Undergraduate Student in Mathematics \quad $\cdot$ \quad GPA: 3.00/5.00; average mark: 80/100
 
-\section*{Research Experience}
-\entry{Research in Quantitative Finance}{2024--2026}
-\subentry{Advisor: Associate Professor Yirong Huang, Sun Yat-sen University}
-Research on financial volatility modeling and forecasting, including hybrid LSTM--GARCH comparison, geometric analog forecasting of realized volatility, and post-processing calibration for underestimation risk.\\
+\section*{Research Mentorship}
+\entry{Quantitative Finance}{2024-2026}
+Advisors: Associate Professor Yirong Huang and Associate Professor Yujun Lian, Sun Yat-sen University\\[-0.5pt]
+\entry{Schubert Calculus and Algebraic Geometry}{2024-2026}
+Advisor: Professor Changzheng Li, Sun Yat-sen University
 
-\entry{Undergraduate Research in Schubert Calculus}{2024--2026}
-\subentry{Advisor: Professor Changzheng Li, Sun Yat-sen University}
-Research on positivity properties of quantum double Schubert polynomials and related structures in Schubert calculus.\\
-
-\entry{Research on Difficult Mathematical Conjectures}{2026--present}
-Studied the Goreinov--Tyrtyshnikov--Zamarashkin conjecture on well-conditioned submatrices of orthonormal frames and the Erd\H{o}s--Straus conjecture.\\
-
-\entry{World Models for Financial Applications}{2026--present}
-\textit{Anchor-Conditioned Probabilistic World Models for Multi-Asset Realized-Volatility Paths} (work in progress). Exploring latent state-space dynamics and joint path realism for financial volatility forecasting.
-
-\section*{Selected Manuscripts and Research Outputs}
+\section*{Selected Research}
 \begin{itemize}
-  \item \textbf{Shape Is Useful: Geometric Analog Forecasting of Realized Volatility.} Tongren Xiao and Shuhang Chen. Manuscript, 2026.
-  \item \textbf{A Comparative Study of Hybrid LSTM Frameworks for Volatility Forecasting in the NASDAQ-100 and S\&P 500 Markets.} Yue Yihua, Rong Jia, Lv Zimeng, Xiao Tongren, and Li Ke. Manuscript, 2025.
-  \item \textbf{Graham Positivity of Quantum Double Schubert Polynomials.} Tongren Xiao and Yihua Yue. Manuscript, 2026.
-  \item \textbf{The Goreinov--Tyrtyshnikov--Zamarashkin Conjecture on Well-Conditioned Submatrices of Orthonormal Frames.} Research note, 2026.
-  \item \textbf{Fixed-Shift Obstructions and Optimized Sieve Constants for the Erd\H{o}s--Straus Conjecture.} Research note, 2026.
+  \item \textbf{\href{https://xtr1976536.github.io/files/papers/finance/Shape_Is_Useful_Geometric_Analog_Forecasting.pdf}{Shape Is Useful: Geometric Analog Forecasting of Realized Volatility}.} With Shuhang Chen; advised by Associate Professor Yujun Lian. Manuscript, 2026. Developed the Shape Retrieval Model, a nonparametric forecaster that retrieves historical volatility paths through five geometric-similarity channels with Transformer-learned weights; strong performance at short and medium horizons.
+
+  \item \textbf{\href{https://github.com/xtr1976536/srm-forecasting-agent}{SRM Forecasting Agent and Web Research Interface}.} 2026. Designed an auditable agent around the Shape Retrieval Model, with validated tool calls, information-boundary checks, neighbor explanations, and reproducible JSON traces. In discussion with the Headline Arena team about integrating its public forward-evaluation API.
+
+  \item \textbf{\href{https://xtr1976536.github.io/files/reports/talks/Conservative_Residual_Overlay_Slides.pdf}{Reducing Underestimation Risk in Volatility Forecasts: A Direction-Aware Post-Processing Method}.} With Yihua Yue; advised by Associate Professor Yirong Huang. Manuscript and research presentation, 2026. Developed a residual-tail calibration layer for HAR/GHAR and IV-augmented forecasts, using leakage-controlled rolling protocols to reduce underestimation frequency and magnitude without redesigning the base model.
+
+  \item \textbf{\href{https://xtr1976536.github.io/files/papers/finance/Comparative_Study_Hybrid_LSTM_Volatility_Forecasting.pdf}{A Comparative Study of Hybrid LSTM Frameworks for Volatility Forecasting in the NASDAQ-100 and S\&P 500 Markets}.} Yihua Yue, Rong Jia, Zimeng Lv, Tongren Xiao, and Ke Li. Manuscript, 2025. Compared hybrid LSTM-GARCH frameworks using realized volatility, GARCH-family forecasts, and implied-volatility information.
+
+  \item \textbf{\href{https://github.com/xtr1976536/volatility-world-model}{A Passive Recurrent State-Space World Model for Multi-Asset Realized Volatility}.} With Shuhang Chen. Preliminary research prototype and early-stage manuscript, 2026; the model is not yet mature. Built an anchor-conditioned RSSM with a causal HAR-IV level component and market-shared and asset-specific latent states; the audited pilot establishes feasibility, not benchmark superiority.
+
+  \item \textbf{\href{https://xtr1976536.github.io/files/papers/algebraic-geometry/Graham_Positivity_Quantum_Double_Schubert_Polynomials.pdf}{Graham Positivity of Quantum Double Schubert Polynomials}.} With Yihua Yue; advised by Professor Changzheng Li. Manuscript, 2026. Developed a geometric proof of coefficient positivity in the product expansion of quantum double Schubert polynomials; the working draft is under discussion with Matthew J. Samuel.
+
+  \item \textbf{\href{https://xtr1976536.github.io/publication/2026-three-frame-conjecture/}{Submatrix Selection for Matrices with Orthonormal Columns}.} Research manuscript, 2026, on the nearly three-decade-old Goreinov-Tyrtyshnikov-Zamarashkin conjecture. Obtained improved lower bounds for $k=3$ and proved structured cases; the unrestricted case remains open. Currently discussing and checking proof details with Richik Sengupta, coauthor of the latest $k=2$ result.
 \end{itemize}
 
 \section*{Coursework and Academic Teaching}
-Selected advanced coursework: two graduate-level courses (\textit{Selected Readings of Academic Articles}, \textit{Harmonic Analysis on Groups}), one honors course (\textit{Algebraic Topology}), and one interdisciplinary course (\textit{Stochastic Processes}). Led presentations on Chapters 1 and 3 of Emily Riehl's \textit{Category Theory in Context}.
+Selected advanced coursework: \textit{Selected Readings of Academic Articles} (graduate-level, 98/100), \textit{Harmonic Analysis on Groups} (graduate-level, 92.5/100), \textit{Algebraic Topology} (honors, 83/100), and \textit{Stochastic Processes} (interdisciplinary). In \textit{Selected Readings of Academic Articles}, delivered the main lectures on Chapters 1 and 3 of Emily Riehl's \textit{Category Theory in Context}.
 
 \section*{International Academic Training}
-\entry{Introduction to Option Pricing}{7 March--25 May 2025}
+\entry{Introduction to Option Pricing}{7 March-25 May 2025}
 International research-based learning course taught by Johannes Ruf; grade: 81.50.
 
 \section*{Honors and Projects}
 \begin{itemize}
+  \item Third-Class Scholarship, Sun Yat-sen University, 2023-2024.
   \item Honorable Mention, 2026 COMAP Mathematical Contest in Modeling (MCM), Problem B.
   \item Guangdong Provincial Second Prize, 2025 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), Problem A.
-  \item Provincial Undergraduate Innovation and Entrepreneurship Training Program, Project No. 20251647: \textit{Asset Volatility Modeling Based on Multi-Option Portfolio Strategies}.
+  \item Provincial Undergraduate Innovation and Entrepreneurship Training Program, Project No.~20251647: \textit{Asset Volatility Modeling Based on Multi-Option Portfolio Strategies}; advised by Associate Professor Yirong Huang.
 \end{itemize}
-
-\section*{Technical Skills}
-LaTeX for academic writing and manuscript preparation; MATLAB for mathematical modeling and numerical computation.
 
 \end{document}

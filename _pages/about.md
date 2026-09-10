@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang and Professor Changzheng Li. My current work focuses on financial volatility forecasting, shape-based methods for financial time series, and Schubert calculus, alongside research on selected difficult mathematical conjectures.
+I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang, Associate Professor Yujun Lian, and Professor Changzheng Li. My current work focuses on reliable language agents, structured decision support, world models, financial AI, and time-series forecasting.
 
-I am interested in mathematically grounded approaches to financial volatility forecasting and in the use of structured representations for financial time series. I am also interested in Schubert calculus and in rigorous work on selected difficult mathematical conjectures.
+I am interested in mathematically grounded approaches to time-series forecasting, structured representations for financial data, and auditable agent systems. I also work on Schubert calculus and rigorous research on selected difficult mathematical conjectures.
 
 Research interests
 ------
 
-- Financial volatility modeling and forecasting
-- Shape-space methods, especially shape-based representations for volatility forecasting
-- Forecast calibration and underestimation-risk control
-- Schubert calculus and algebraic geometry
-- Selected difficult mathematical conjectures
+- Reliable language agents
+- Structured decision support
+- World models
+- Financial AI
+- Time-series forecasting
 
 Selected research
 ------
