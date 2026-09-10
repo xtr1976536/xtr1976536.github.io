@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Tongren Xiao"
 title_separator          : "-"
 name                     : &name "Tongren Xiao"
-description              : &description "Tongren Xiao's academic homepage: financial volatility forecasting, Schubert calculus, and mathematical research."
+description              : &description "Tongren Xiao's academic homepage: reliable language agents, structured decision support, uncertainty-aware forecasting, and probabilistic world models."
 url                      : https://xtr1976536.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile-tongren-xiao.jpg"
   name             : "Tongren Xiao (肖童仁)"
   pronouns         : # example: "she/her"  
-  bio              : "Mathematics undergraduate working on financial volatility forecasting and Schubert calculus."
+  bio              : "Mathematics undergraduate working on reliable AI, structured decision support, and uncertainty-aware financial modeling."
   location         : "Guangzhou, China"
   employer         : "Sun Yat-sen University"
   uri              : # URL

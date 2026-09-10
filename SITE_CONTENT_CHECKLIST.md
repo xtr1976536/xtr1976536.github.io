@@ -1,5 +1,8 @@
 # Personal Website Content Checklist
 
+This checklist is author input only. No claim below should be published until
+the corresponding fact, contribution, result, or permission is confirmed.
+
 The first public-ready draft uses only information verified from the existing research files. Provide the items below before the final application version is published.
 
 ## Identity and contact
@@ -63,3 +66,22 @@ The option-pricing transcript is used for CV information only and should remain 
 ## CV
 
 - Final English CV as a PDF named `Tongren_Xiao_CV.pdf`
+
+## GitHub profile and project pages
+
+- One-sentence profile objective.
+- For `volatility-world-model`: your role, collaborators, confirmed metrics,
+  experiment status, and data provenance statement.
+- For `srm-forecasting-agent`: your role, current deployment status, and which
+  components are prototypes versus validated research results.
+- Whether the Headline Arena dry-run adapter should remain local-only (default)
+  or whether you want to authorize a separately reviewed live connector later.
+- Which repositories should be featured, archived, or kept private.
+
+## RA application narrative
+
+- Why this lab specifically.
+- Two or three concrete research questions you want to pursue.
+- What you can contribute immediately (coding, modeling, evaluation, theory,
+  systems, or experiment design).
+- Availability, start date, remote/in-person preference, and desired duration.
