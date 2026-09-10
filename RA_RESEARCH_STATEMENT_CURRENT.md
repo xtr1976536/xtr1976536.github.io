@@ -28,10 +28,4 @@ the opportunity arises, I would like to explore whether its structured
 combinatorial representations can inspire general algorithms for learning or
 reasoning.
 
-## Author checks before submission
 
-- [ ] Confirm the exact RA dates and availability.
-- [ ] Add one or two concrete target problems from the lab.
-- [ ] Confirm manuscript and arXiv wording for the SRM project.
-- [ ] Confirm whether to mention Schubert-calculus/ML connections in the final
-  one-page statement.
