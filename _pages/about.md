@@ -34,7 +34,7 @@ Selected research
 
 #### Shape-based forecasting of realized volatility
 
-This project studies geometric similarity between historical volatility paths and its use in nonparametric realized-volatility forecasting.
+This project studies geometric similarity between historical volatility paths and its use in nonparametric realized-volatility forecasting. An arXiv preprint is forthcoming.
 
 [View publication entry](/publication/2026-shape-useful/)
 
@@ -46,7 +46,7 @@ This is an extension of the previous shape‑based forecasting work—it wraps t
 
 #### Forecast calibration and underestimation-risk control
 
-This project studies a post-processing layer for volatility forecasts, with the aim of reducing the frequency and magnitude of underestimation without redesigning the underlying forecasting model.
+This project studies a post-processing layer for volatility forecasts, with the aim of reducing the frequency and magnitude of underestimation without redesigning the underlying forecasting model. An arXiv preprint is forthcoming.
 
 [View slides](/files/reports/talks/Conservative_Residual_Overlay_Slides.pdf)
 

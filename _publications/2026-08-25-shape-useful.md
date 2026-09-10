@@ -5,9 +5,9 @@ category: finance
 permalink: /publication/2026-shape-useful/
 excerpt: "A geometric analog forecasting framework for realized volatility based on similarity between historical volatility paths."
 date: 2026-08-25
-venue: "Manuscript"
+venue: "Manuscript; arXiv preprint forthcoming"
 paperurl: "/files/papers/finance/Shape_Is_Useful_Geometric_Analog_Forecasting.pdf"
-citation: "Tongren Xiao and Shuhang Chen. &quot;Shape Is Useful: Geometric Analog Forecasting of Realized Volatility.&quot; Manuscript, 2026."
+citation: "Tongren Xiao and Shuhang Chen. &quot;Shape Is Useful: Geometric Analog Forecasting of Realized Volatility.&quot; Manuscript, 2026; arXiv preprint forthcoming."
 ---
 
 This paper proposes the Shape Retrieval Model, a nonparametric realized-volatility forecasting framework based on geometric similarity between historical paths.
