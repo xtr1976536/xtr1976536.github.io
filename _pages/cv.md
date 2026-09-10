@@ -10,7 +10,7 @@ author_profile: true
 Research interests
 ======
 
-Reliable language agents; structured decision support; world models; financial AI; time-series forecasting.
+AI agents; structured decision support; world models; financial AI; time-series forecasting.
 
 Education
 ======
@@ -18,7 +18,6 @@ Education
 **Sun Yat-sen University**, School of Mathematics, Guangzhou, China
 
 Undergraduate Student in Mathematics, 2023-September 2027 (expected)
-GPA: 3.00/5.00; average mark: 80/100
 
 Research mentorship
 ======

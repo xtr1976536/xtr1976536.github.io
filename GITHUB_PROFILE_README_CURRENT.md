@@ -1,6 +1,6 @@
 # Tongren Xiao
 
-I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang, Associate Professor Yujun Lian, and Professor Changzheng Li. My current work focuses on reliable language agents, structured decision support, world models, financial AI, and time-series forecasting, alongside Schubert calculus.
+I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang, Associate Professor Yujun Lian, and Professor Changzheng Li. My current work focuses on AI agents, structured decision support, world models, financial AI, and time-series forecasting, alongside Schubert calculus.
 
 I am particularly interested in the following questions:
 
@@ -16,7 +16,7 @@ In addition, I maintain an interest in algebraic geometry, particularly Schubert
 
 # Research Interests
 
-1. Reliable language agents
+1. AI agents
 
 2. Structured decision support
 

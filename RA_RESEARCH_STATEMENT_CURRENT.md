@@ -12,7 +12,7 @@ but the project has helped me think about latent dynamics, probabilistic future
 paths, shared structure across assets, and forward-only evaluation.
 
 Together with Associate Professor Yirong Huang, I am interested in whether
-reliable language agents can support financial decisions without hiding their
+AI agents can support financial decisions without hiding their
 information boundary or uncertainty. In the longer term, I hope to move beyond
 forecasting toward the decision problems that follow from forecasts.
 
